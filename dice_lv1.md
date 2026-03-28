@@ -1,3 +1,9 @@
+---
+layout: default
+title: プライバシーポリシー / Privacy Policy
+lang: ja
+---
+
 # プライバシーポリシー / Privacy Policy
 
 ## 概要 / Overview
@@ -38,6 +44,7 @@ The Application may request personally identifiable information including Email 
 - 利用状況の分析 / Usage analysis
 - 重要なお知らせや通知 / Important notices
 - マーケティング（該当する場合） / Marketing and promotions (if applicable)
+
 ## 第三者への提供 / Third-Party Disclosure
 
 ### 日本語
